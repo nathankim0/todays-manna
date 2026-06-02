@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml"
+  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://nathankim0.github.io/todays-manna/</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bible-habit.com/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://bible-habit.com/ko"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bible-habit.com/en"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://bible-habit.com/ja"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://bible-habit.com/es"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://bible-habit.com/fr"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://bible-habit.com/de"/>
+    <xhtml:link rel="alternate" hreflang="tl" href="https://bible-habit.com/tl"/>
+    <image:image>
+      <image:loc>https://pub-8b9fbd72dfab47b39947d872f6288c46.r2.dev/images/og/home.png</image:loc>
+      <image:title>오늘의 만나가 바이블해빗으로 변경되었습니다</image:title>
+      <image:caption>성경 체크리스트 앱과 맥체인 성경읽기표를 지원하는 Bible Habit</image:caption>
+    </image:image>
+    <lastmod>2026-06-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+</urlset>
